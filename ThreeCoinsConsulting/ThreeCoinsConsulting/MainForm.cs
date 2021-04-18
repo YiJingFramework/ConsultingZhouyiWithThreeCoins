@@ -8,15 +8,15 @@ using YiJingFramework.References.Zhouyi;
 
 namespace ThreeCoinsConsulting
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         private readonly int positionOfLabelChanged;
         private readonly int positionOfLabelOriginal;
-        public Form1()
+        public MainForm()
         {
             this.InitializeComponent();
 
-            this.positionOfLabelChanged = 
+            this.positionOfLabelChanged =
                 this.labelChangedPainting.Location.Y + this.labelChangedPainting.Size.Height;
             this.positionOfLabelOriginal =
                 this.labelOriginalPainting.Location.Y + this.labelOriginalPainting.Size.Height;

@@ -10,8 +10,8 @@
   <ItemGroup>
     <PackageReference Include="YiJingFramework.Casting.ThreeCoins" Version="1.1.0" />
     <PackageReference Include="YiJingFramework.Core" Version="2.0.1" />
-    <PackageReference Include="YiJingFramework.Painting.Presenting" Version="1.0.0" />
-    <PackageReference Include="YiJingFramework.References.Zhouyi" Version="2.0.1" />
+    <PackageReference Include="YiJingFramework.Painting.Presenting" Version="1.1.0" />
+    <PackageReference Include="YiJingFramework.References.Zhouyi" Version="3.1.0" />
   </ItemGroup>
 
   <ItemGroup>
